@@ -1,3 +1,3 @@
 package module7
 
-//go:generate goimports .
+//go:generate goimports -w .
